@@ -35,6 +35,14 @@ function callfuntion() {
         console.log("You haven't won the game")
     }
 };
-
+// function callfuntion() {
+//     var randomNumber = parseInt(Math.random() * 5) + 1;
+//     if (input.value == randomNumber) {
+//         guess++;
+//         console.log("You have won the game")
+//     } else {
+//         console.log("You haven't won the game")
+//     }
+// };
 //  var rendomNumber =  parseInt(Math.random()*5)+1;
 //  console.log(rendomNumber)
